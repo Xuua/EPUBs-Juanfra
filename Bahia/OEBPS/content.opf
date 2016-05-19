@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="en" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta property="rendition:layout">reflowable</meta>
+		<meta property="ibooks:specified-fonts">true</meta>
+        <meta property="dcterms:modified">2016-05-08T12:00:00Z</meta>
+        <dc:identifier id="uid">Bahia</dc:identifier>
+		<dc:title id="title">Bahía de versos náufragos</dc:title>
+		<dc:creator>Andrade Romo, Edmundo</dc:creator>
+		<dc:publisher>Perro Triste</dc:publisher>  
+		<dc:language>es</dc:language>
+	</metadata>
+	<manifest>
+		<item href="nav/nav.xhtml" id="nav_xhtml" properties="nav" media-type="application/xhtml+xml" />
+		<item href="toc.ncx" id="toc_ncx" media-type="application/x-dtbncx+xml" />
+		<item href="css/principal.css" id="principal_css" media-type="text/css"/>
+        <item href="ttf/Lora-Bold.ttf" id="Lora-Bold_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/Lora-Italic.ttf" id="Lora-Italic_ttf" media-type="application/vnd.ms-opentype" />
+        <item href="ttf/Lora-Regular.ttf" id="Lora-Regular_ttf" media-type="application/vnd.ms-opentype" />
+		<item href="xhtml/01-portada.xhtml" id="portada_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/02-portadilla.xhtml" id="portadilla_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/03-legal.xhtml" id="legal_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/04-title01.xhtml" id="title01_xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/05-capitulo01.xhtml" id="capitulo01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/06-title02.xhtml" id="title02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/07-epi02.xhtml" id="epi02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/08-capitulo02.xhtml" id="capitulo02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/09-title03.xhtml" id="title03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/10-capitulo03.xhtml" id="capitulo03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/11-title04.xhtml" id="title04_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12a-capitulo04-01.xhtml" id="capitulo04-01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12b-capitulo04-02.xhtml" id="capitulo04-02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12c-capitulo04-03.xhtml" id="capitulo04-03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12d-capitulo04-04.xhtml" id="capitulo04-04_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12e-capitulo04-05.xhtml" id="capitulo04-05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12f-capitulo04-06.xhtml" id="capitulo04-06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12g-capitulo04-07.xhtml" id="capitulo04-07_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/13-title05.xhtml" id="title05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/14a-capitulo05intro.xhtml" id="capitulo05intro_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/14b-capitulo05.xhtml" id="capitulo05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/15-title06.xhtml" id="title06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/16-capitulo06.xhtml" id="capitulo06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/17-title07.xhtml" id="title07_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/18a-capitulo07intro.xhtml" id="capitulo07intro_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/18b-capitulo07.xhtml" id="capitulo07_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/19-title08.xhtml" id="title08_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/20a-capitulo08-01.xhtml" id="capitulo08-01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/20b-capitulo08-02.xhtml" id="capitulo08-02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/20c-capitulo08-03.xhtml" id="capitulo08-03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/21-title09.xhtml" id="title09_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/22a-capitulo09-01.xhtml" id="capitulo09-01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/22b-capitulo09-02.xhtml" id="capitulo09-02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/22c-capitulo09-03.xhtml" id="capitulo09-03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/23-title10.xhtml" id="title10_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24a-capitulo10-01.xhtml" id="capitulo10-01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24b-capitulo10-02.xhtml" id="capitulo10-02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24c-capitulo10-03.xhtml" id="capitulo10-03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24d-capitulo10-04.xhtml" id="capitulo10-04_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24e-capitulo10-05.xhtml" id="capitulo10-05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24f-capitulo10-06.xhtml" id="capitulo10-06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/25-contraportada.xhtml" id="contraportada_xhtml" media-type="application/xhtml+xml" />
+        <item href="img/portada.jpg" id="portada_jpg" media-type="image/jpeg" properties="cover-image" />
+        <item href="img/contraportada.jpg" id="contraportada_jpg" media-type="image/jpeg" />
+        <item href="img/logo.png" id="logo_png" media-type="image/png" />
+	</manifest>
+	<spine toc="toc_ncx">
+		<itemref idref="portada_xhtml"/>
+		<itemref idref="portadilla_xhtml"/>
+		<itemref idref="legal_xhtml"/>
+		<itemref idref="title01_xhtml"/>
+        <itemref idref="capitulo01_xhtml"/>
+        <itemref idref="title02_xhtml"/>
+        <itemref idref="epi02_xhtml"/>
+        <itemref idref="capitulo02_xhtml"/>
+        <itemref idref="title03_xhtml"/>
+        <itemref idref="capitulo03_xhtml"/>
+        <itemref idref="title04_xhtml"/>
+        <itemref idref="capitulo04-01_xhtml"/>
+        <itemref idref="capitulo04-02_xhtml"/>
+        <itemref idref="capitulo04-03_xhtml"/>
+        <itemref idref="capitulo04-04_xhtml"/>
+        <itemref idref="capitulo04-05_xhtml"/>
+        <itemref idref="capitulo04-06_xhtml"/>
+        <itemref idref="capitulo04-07_xhtml"/>
+        <itemref idref="title05_xhtml"/>
+        <itemref idref="capitulo05intro_xhtml"/>
+        <itemref idref="capitulo05_xhtml"/>
+        <itemref idref="title06_xhtml"/>
+        <itemref idref="capitulo06_xhtml"/>
+        <itemref idref="title07_xhtml"/>
+        <itemref idref="capitulo07intro_xhtml"/>
+        <itemref idref="capitulo07_xhtml"/>
+        <itemref idref="title08_xhtml"/>
+        <itemref idref="capitulo08-01_xhtml"/>
+        <itemref idref="capitulo08-02_xhtml"/>
+        <itemref idref="capitulo08-03_xhtml"/>
+        <itemref idref="title09_xhtml"/>
+        <itemref idref="capitulo09-01_xhtml"/>
+        <itemref idref="capitulo09-02_xhtml"/>
+        <itemref idref="capitulo09-03_xhtml"/>
+        <itemref idref="title10_xhtml"/>
+        <itemref idref="capitulo10-01_xhtml"/>
+        <itemref idref="capitulo10-02_xhtml"/>
+        <itemref idref="capitulo10-03_xhtml"/>
+        <itemref idref="capitulo10-04_xhtml"/>
+        <itemref idref="capitulo10-05_xhtml"/>
+        <itemref idref="capitulo10-06_xhtml"/>
+        <itemref idref="contraportada_xhtml"/>
+	</spine>
+</package>

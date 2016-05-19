@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+
+	<head>
+		<meta content="Bahia" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+
+	<docTitle>
+		<text>Bahía de versos náufragos</text>
+	</docTitle>
+
+	<docAuthor>
+		<text>Andrade Romo, Edmundo</text>
+	</docAuthor>
+
+	<navMap>
+		<navPoint id="navPoint-01" playOrder="1"><navLabel><text>Inicio</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
+		<navPoint id="navPoint-02" playOrder="2"><navLabel><text>Experiencias libividas</text></navLabel><content src="xhtml/04-title01.xhtml"/></navPoint>
+        <navPoint id="navPoint-03" playOrder="3"><navLabel><text>Cataemas</text></navLabel><content src="xhtml/06-title02.xhtml"/></navPoint>
+        <navPoint id="navPoint-04" playOrder="4"><navLabel><text>Ameré siempra ayer</text></navLabel><content src="xhtml/09-title03.xhtml"/></navPoint>
+        <navPoint id="navPoint-05" playOrder="5"><navLabel><text>Azuluces en rocicler</text></navLabel><content src="xhtml/11-title04.xhtml"/></navPoint>
+        <navPoint id="navPoint-06" playOrder="6"><navLabel><text>Mínimas para Andrea</text></navLabel><content src="xhtml/13-title05.xhtml"/></navPoint>
+        <navPoint id="navPoint-07" playOrder="7"><navLabel><text>Alebrije de amor</text></navLabel><content src="xhtml/15-title06.xhtml"/></navPoint>
+        <navPoint id="navPoint-08" playOrder="8"><navLabel><text>Insterticios</text></navLabel><content src="xhtml/17-title07.xhtml"/></navPoint>
+        <navPoint id="navPoint-09" playOrder="9"><navLabel><text>Poemas con luz marina</text></navLabel><content src="xhtml/19-title08.xhtml"/></navPoint>
+        <navPoint id="navPoint-10" playOrder="10"><navLabel><text>Carmina filio meo Daiel</text></navLabel><content src="xhtml/21-title09.xhtml"/></navPoint>
+        <navPoint id="navPoint-11" playOrder="11"><navLabel><text>Ellos</text></navLabel><content src="xhtml/23-title10.xhtml"/></navPoint>
+    </navMap>
+</ncx>
